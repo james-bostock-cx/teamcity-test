@@ -21,3 +21,5 @@ with open(sys.argv[1]) as f:
 # Password: secret
 
 print('Done!')
+
+# A random comment
